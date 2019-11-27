@@ -1,0 +1,25 @@
+{
+    "instances":[
+            {
+                "image":{"b64":"sadfasdf"},
+                "comp":"R213",
+                "sn":"0001"
+             },
+             {
+                 "image":{"b64":"stamdsafasdafsfd"},
+                 "comp":"C223",
+                 "sn":"0002"
+             },
+             {
+                "image":{"b64":"sadfasfdsafasdfdf"},
+                "comp":"R213",
+                "sn":"0003"
+             },
+             {
+                "image":{"b64":"sadfasfdsafasdfdf"},
+                "comp":"R213",
+                "sn":"0004"
+             }
+        ]
+
+   }

@@ -1,0 +1,11 @@
+{
+    "name":"model_1",
+    "result_type" : { 
+                "0" : "NG-MoreComponent",
+                "1" : "NG-NoneComponent",
+                "2" : "NG-OutsidePosition",
+                "3" : "NG-UpsideDown",
+                "4" : "OK"
+            }
+        
+}

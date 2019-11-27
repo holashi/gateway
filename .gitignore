@@ -1,0 +1,6 @@
+#ignore folders
+images/
+test_docker/
+model_config/
+gateway/test/
+test_docker/

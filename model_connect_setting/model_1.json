@@ -1,0 +1,21 @@
+{
+    "name":"model_1",
+    "env_setting" : {
+        "grpc":{
+            "tfs_method": "grpc",
+            "grpc_batch" : 300, 
+            "signature_name": "classification",
+            "tfserving_grpc_url": "10.34.127.5:48500",
+            "model_input_name": "string_array", 
+            "model_output_name": "output_node"
+        },
+        "rest":{
+            "tfs_method": "rest",
+            "signature_name": "classification",
+            "tfserving_rest": "10.34.127.5:48501",
+            "model_input_name": "string_array", 
+            "model_output_name": "output_node"
+        }
+        
+    }   
+}

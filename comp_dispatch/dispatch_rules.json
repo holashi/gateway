@@ -1,0 +1,13 @@
+{
+    "notation":"MB_SN is the model sn ,and model here is the production by the factory",
+    "notation1":"Key 'Comps' describes the relationship between components and models. Example: compnent with code [A] will be applied by model_1 and model_2",
+    "MB_SN":"production_sn",
+    "Comps":{
+        "A":{
+            "models_list":["model_1","model_2"]
+        },
+        "B":{
+            "models_list":["model_1"]
+        }
+    }
+}
