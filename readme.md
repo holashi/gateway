@@ -1,5 +1,6 @@
 ## __model gateway prototype__  
-    This prototype is used to dispatch models based on the request.  The key that the prototype reference to is "Comp". And the service is created based on flask. 
+    This prototype is used to dispatch models based on the request.
+    The key that the prototype reference to is "Comp". And the service is created based on flask. 
 
 ### __Start the Services__  
 1. According to the templete in ```./comp_dispatch/dispatch_rules.json```, modify the file to determine the relationships between components and corresponding models.  
